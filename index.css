@@ -1,0 +1,15 @@
+.one img{
+    margin-left: 42vw;
+    margin-bottom: 20px;
+    height:200px ;
+    width:200px ;
+    padding: 0px;
+    border-radius: 50%;
+    border: 2px solid greenyellow;
+    box-shadow: 1px 1px 10px 2px lightgrey;
+background-color: lightyellow;}
+}
+
+body{
+    background-color: grey;
+}
